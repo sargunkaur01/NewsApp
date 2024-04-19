@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sargunkaur01/DailyDigest.git/static/css/main.abd64e84.css",
+    "main.js": "/sargunkaur01/DailyDigest.git/static/js/main.c2e3a3a9.js",
+    "static/js/787.2ce94447.chunk.js": "/sargunkaur01/DailyDigest.git/static/js/787.2ce94447.chunk.js",
+    "index.html": "/sargunkaur01/DailyDigest.git/index.html",
+    "main.abd64e84.css.map": "/sargunkaur01/DailyDigest.git/static/css/main.abd64e84.css.map",
+    "main.c2e3a3a9.js.map": "/sargunkaur01/DailyDigest.git/static/js/main.c2e3a3a9.js.map",
+    "787.2ce94447.chunk.js.map": "/sargunkaur01/DailyDigest.git/static/js/787.2ce94447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c2e3a3a9.js"
+  ]
+}
